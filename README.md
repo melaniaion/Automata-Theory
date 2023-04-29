@@ -1,1 +1,1 @@
-# LFA_Lab_3
+Automata Theory
